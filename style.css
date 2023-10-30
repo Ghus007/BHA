@@ -1,11 +1,12 @@
 #banner {
 	width:50%;
-	text-align:center;
+	
 }
 
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
+	align:center;
 }
 
 .titulo-principal {

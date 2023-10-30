@@ -3,6 +3,10 @@
 	heigth: 50%
 }
 
+.container {
+  text-align: center;
+}
+
 .principal{
 	background: #CCCCCC;
 	padding: 30px;
